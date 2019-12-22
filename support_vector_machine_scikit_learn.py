@@ -1,6 +1,9 @@
 #Iris dataset
 #https://www.kaggle.com/jchen2186/machine-learning-with-iris-dataset/data
 
+#The code
+#https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47
+
 import pandas as pd
 
 #Iris dataset has three classes
