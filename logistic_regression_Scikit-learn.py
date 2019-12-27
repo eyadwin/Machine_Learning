@@ -10,6 +10,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+#Outcome have the value 0 or 1
 col_names = ['Pregnancies','Glucose','BloodPressure','SkinThickness','Insulin','BMI','DiabetesPedigreeFunction','Age','Outcome']
 # load dataset
 #from https://www.kaggle.com/uciml/pima-indians-diabetes-database
